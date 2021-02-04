@@ -20,6 +20,8 @@ class ViewController: UIViewController {
         // code 2
         
         // app store 1
+        
+        // bug fix
     }
 
 
